@@ -1,4 +1,4 @@
-# cropchien
+# Jeketibot-dashboard
 
 ## Project setup
 ```
